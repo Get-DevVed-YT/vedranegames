@@ -1,0 +1,13 @@
+body {
+  color: white;
+  background-color: #073752;
+  font-family: 'Roboto';
+  margin: 0;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: black;
+  color: white;
+}
